@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, My name is Khunanont Titayanunt you can called me Prompt.</h1>
-<h3 align="center">I'm a Computer Engineering Student who passionated to backend/fullstack development.</h3>
-
-- 🌱 I’m currently learning **Spring Boot.**
+<h3 align="center">I'm a Computer Engineering Student at Mahidol University.</h3>
+<h3 align="center">I'm passionated to backend/fullstack development.</h3>
 
 - 📫 How to reach me **khunanont.ti@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khunanont titayanunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khunanont titayanunt" height="30" width="40" /></a>
-<a href="https://fb.com/khunanont titayanunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khunanont titayanunt" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/khunanont titayanunt](https://www.linkedin.com/in/khunanont-titayanunt-822b8032a/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khunanont titayanunt" height="30" width="40" /></a>
 <a href="https://instagram.com/prompt_knn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prompt_knn" height="30" width="40" /></a>
 </p>
 
