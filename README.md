@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, My name is Khunanont Titayanunt you can called me Prompt.</h1>
+<h1 align="center">👋 My name is Khunanont Titayanunt you can called me Prompt.</h1>
 <h3 align="center">I'm a Computer Engineering Student at Mahidol University.</h3>
-<h3 align="center">I'm passionated to backend/fullstack development.</h3>
+<h3 align="center">I'm passionated to fullstack development.</h3>
 
 - 📫 How to reach me **khunanont.ti@gmail.com**
 
